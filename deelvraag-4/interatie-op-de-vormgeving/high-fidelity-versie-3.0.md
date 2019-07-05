@@ -1,6 +1,6 @@
 # High fidelity \(Versie 3&4\)
 
-Tijdens deze fase heeft Kinder zijn oude huisstijl geupdate met wat nieuwe design elementen. Omdat er een groot aantal huisstijl regels zijn komen te vervallen, heb ik ervoor gekozen op de oude huisstijl om te gooien naar de vernieuwde huisstijl. 
+Tijdens deze fase was de stijl van de Kinder World platform als uitgangpunt gebruiker. Later in het proces heb ik enkele templates ontvangen waarop ik mijn huidige designs hebt aangepast.
 
 Hierdoor heeft het ontwerp een iets andere look and feel gekregen. 
 
